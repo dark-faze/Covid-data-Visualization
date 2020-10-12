@@ -1,0 +1,2 @@
+A Jupyter Notebook to get the latest covid data through a Covid api and using folium the data is used to show the affected countries on the map. 
+Also have a interactive heat map which shows death cases in the globe.
